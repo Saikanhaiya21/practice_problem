@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "The Future of Artificial Intelligence in 2026",
+      "summary": "Exploring the rapid advancements in generative AI and its impact on the global workforce.",
+      "publishedAt": "2026-05-22T09:00:00Z",
+      "source": "Tech Daily",
+      "category": "tech"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Urban Planning Strategies",
+      "summary": "How modern cities are integrating green spaces to combat climate change.",
+      "publishedAt": "2026-05-21T14:30:00Z",
+      "source": "City Watch",
+      "category": "finance"
+    },
+    {
+      "id": 3,
+      "title": "Breakthroughs in Renewable Energy Storage",
+      "summary": "New battery technologies promise to stabilize power grids using solar and wind.",
+      "publishedAt": "2026-05-21T11:15:00Z",
+      "source": "Energy Insider",
+      "category": "markets"
+    },
+    {
+      "id": 4,
+      "title": "The Evolution of Remote Work Culture",
+      "summary": "Assessing how hybrid models have reshaped employee productivity and mental health.",
+      "publishedAt": "2026-05-20T16:45:00Z",
+      "source": "Business Weekly",
+      "category": "tech"
+    },
+    {
+      "id": 5,
+      "title": "Advances in Personalized Medicine",
+      "summary": "Genetic tailoring is becoming the new standard for treating chronic illnesses.",
+      "publishedAt": "2026-05-20T08:20:00Z",
+      "source": "Health Science Journal",
+      "category": "finance"
+    },
+    {
+      "id": 6,
+      "title": "Global Economic Trends Mid-2026",
+      "summary": "An analysis of inflation rates and supply chain stabilization across major markets.",
+      "publishedAt": "2026-05-19T10:00:00Z",
+      "source": "Global Finance",
+      "category": "markets"
+    },
+    {
+      "id": 7,
+      "title": "Space Exploration: Mars Mission Update",
+      "summary": "Recent data from the latest rover missions reveals signs of ancient water sources.",
+      "publishedAt": "2026-05-19T07:50:00Z",
+      "source": "Astronomy Today",
+      "category": "tech"
+    },
+    {
+      "id": 8,
+      "title": "The Rise of Decentralized Finance",
+      "summary": "Understanding the shifting landscape of banking through blockchain adoption.",
+      "publishedAt": "2026-05-18T13:10:00Z",
+      "source": "Crypto Gazette",
+      "category": "finance"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Threats in the Age of Quantum Computing",
+      "summary": "Why current encryption standards need an urgent upgrade to counter quantum capabilities.",
+      "publishedAt": "2026-05-18T09:40:00Z",
+      "source": "Security Digest",
+      "category": "markets"
+    },
+    {
+      "id": 10,
+      "title": "Innovations in Vertical Farming",
+      "summary": "How indoor vertical farms are addressing food security in densely populated areas.",
+      "publishedAt": "2026-05-17T15:25:00Z",
+      "source": "AgriTech News",
+      "category": "tech"
+    },
+    {
+      "id": 11,
+      "title": "Educational Reform in the Digital Era",
+      "summary": "Integrating AI tutors into classroom settings to provide personalized learning paths.",
+      "publishedAt": "2026-05-17T11:00:00Z",
+      "source": "Education Review",
+      "category": "finance"
+    },
+    {
+      "id": 12,
+      "title": "The Impact of Micro-Mobility on Traffic",
+      "summary": "How electric scooters and bikes are changing commuting habits in Europe.",
+      "publishedAt": "2026-05-16T14:50:00Z",
+      "source": "Urban Transit Lab",
+      "category": "markets"
+    },
+    {
+      "id": 13,
+      "title": "Marine Conservation Efforts 2026",
+      "summary": "New international agreements aimed at protecting deep-sea ecosystems.",
+      "publishedAt": "2026-05-16T08:30:00Z",
+      "source": "Oceanic Report",
+      "category": "tech"
+    },
+    {
+      "id": 14,
+      "title": "The Psychology of Digital Minimalism",
+      "summary": "Why more professionals are choosing to disconnect to reclaim their attention span.",
+      "publishedAt": "2026-05-15T12:00:00Z",
+      "source": "Mind & Tech",
+      "category": "finance"
+    },
+    {
+      "id": 15,
+      "title": "Progress in Fusion Energy Research",
+      "summary": "Researchers achieve a significant milestone in sustaining plasma heat.",
+      "publishedAt": "2026-05-15T09:15:00Z",
+      "source": "Science Daily",
+      "category": "markets"
+    },
+    {
+      "id": 16,
+      "title": "The Changing Face of Global Tourism",
+      "summary": "Eco-tourism and 'slow travel' gain traction among post-pandemic travelers.",
+      "publishedAt": "2026-05-14T17:40:00Z",
+      "source": "Travel Trends",
+      "category": "tech"
+    },
+    {
+      "id": 17,
+      "title": "Advances in Natural Language Processing",
+      "summary": "New models demonstrate better context awareness and emotional intelligence.",
+      "publishedAt": "2026-05-14T10:05:00Z",
+      "source": "AI Monthly",
+      "category": "finance"
+    },
+    {
+      "id": 18,
+      "title": "Home Automation and Privacy Risks",
+      "summary": "Balancing the convenience of smart homes with data protection concerns.",
+      "publishedAt": "2026-05-13T13:30:00Z",
+      "source": "Consumer Tech",
+      "category": "markets"
+    },
+    {
+      "id": 19,
+      "title": "Modern Architecture: Using Recycled Materials",
+      "summary": "Architects lead the charge in using circular economy principles for new builds.",
+      "publishedAt": "2026-05-13T08:50:00Z",
+      "source": "Design World",
+      "category": "tech"
+    },
+    {
+      "id": 20,
+      "title": "The Future of E-Sports Betting",
+      "summary": "Regulation and growth projections for the burgeoning e-sports wagering market.",
+      "publishedAt": "2026-05-12T16:20:00Z",
+      "source": "Gaming Industry",
+      "category": "finance"
+    }
+  ]
+}
